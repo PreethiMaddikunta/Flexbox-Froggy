@@ -35,3 +35,6 @@
 24) flex-flow:column-reverse wrap-reverse;
     justify-content:center;
     align-content:space-between;
+24) flex-flow:column-reverse wrap-reverse;
+    justify-content:center;
+    align-content:space-between;
